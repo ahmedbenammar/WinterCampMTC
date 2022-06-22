@@ -1,0 +1,664 @@
+/* Frame 2 */
+
+position: relative;
+width: 1920px;
+height: 1656px;
+
+background: #201759;
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 1920px;
+height: 239px;
+left: 0px;
+top: 0px;
+
+background: #CECFD2;
+mix-blend-mode: normal;
+border-radius: 0px 0px 100px 100px;
+
+
+/* Logo 1 */
+
+position: absolute;
+width: 239px;
+height: 239px;
+left: 7px;
+top: 0px;
+
+background: url(Logo.png);
+
+
+/* HOME */
+
+position: absolute;
+width: 200px;
+height: 78px;
+left: 1654px;
+top: 81px;
+
+font-family: 'Average';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 78px;
+/* identical to box height */
+
+color: #201759;
+
+
+
+/* JOIN US */
+
+position: absolute;
+width: 244px;
+height: 78px;
+left: 1347px;
+top: 81px;
+
+font-family: 'Average';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 78px;
+/* identical to box height */
+
+color: #201759;
+
+
+
+/* Rectangle 2 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 239px;
+height: 133px;
+left: 1634px;
+top: 52px;
+
+border: 3px solid #201759;
+border-radius: 0px 0px 50px 0px;
+
+
+/* Rectangle 3 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 273px;
+height: 133px;
+left: 1330px;
+top: 52px;
+
+border: 3px solid #201759;
+
+
+/* Winter Camp */
+
+position: absolute;
+width: 370px;
+height: 70px;
+left: 41px;
+top: 289px;
+
+font-family: 'Average';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 78px;
+
+color: #FFFFFF;
+
+border: 2px solid #FFFFFF;
+
+
+/* Details */
+
+position: absolute;
+width: 189px;
+height: 74px;
+left: 41px;
+top: 522px;
+
+font-family: 'Average';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 78px;
+
+color: #FFFFFF;
+
+border: 2px solid #FFFFFF;
+
+
+/* Sponsors */
+
+position: absolute;
+width: 254px;
+height: 74px;
+left: 781px;
+top: 1316px;
+
+font-family: 'Average';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 78px;
+
+color: #FFFFFF;
+
+border: 2px solid #FFFFFF;
+
+
+/* Un hackathon 100% pour les lycéens en Tunisie. Un événement qui encourage aux programmations compétitives, cette formation a été pour 3 niveaux (débutant, intermédiaire et professionnel) qui avait lieu aux maisons de jeune GREMDA le 27 et 28 Décembre 2021 pour une durée de 12h de formation. Suite à la quelle était une compétition en ligne le 29 Décembre 2021 de 3h avec environ 120 participants talentueux qui sont soit passionnés par la technologie et la programmation, soit des débutants dans ce domaine, nous avons commencé par des formations en C++. */
+
+position: absolute;
+width: 1813px;
+height: 120px;
+left: 41px;
+top: 377px;
+
+font-family: 'Average';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+
+color: #FFFFFF;
+
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. */
+
+position: absolute;
+width: 1813px;
+height: 130px;
+left: 41px;
+top: 610px;
+
+font-family: 'Average';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+
+color: #FFFFFF;
+
+
+
+/* Group 1 */
+
+position: absolute;
+width: 1920px;
+height: 77px;
+left: 0px;
+top: 1579px;
+
+
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 1920px;
+height: 77px;
+left: 0px;
+top: 1579px;
+
+background: #3D3D3D;
+
+
+/* Winter Camp MTC 2021®™ */
+
+position: absolute;
+width: 592.46px;
+height: 72.3px;
+left: 17.95px;
+top: 1583.7px;
+
+font-family: 'Average';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #FFFFFF;
+
+
+
+/* The Hunters Team */
+
+position: absolute;
+width: 408.94px;
+height: 43.2px;
+left: 1511.06px;
+top: 1585.57px;
+
+font-family: 'Average';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #FFFFFF;
+
+
+
+/* co 1 */
+
+position: absolute;
+width: 158px;
+height: 158px;
+left: 531px;
+top: 1408px;
+
+background: url(co.png);
+
+
+/* dhg 1 */
+
+position: absolute;
+width: 289px;
+height: 289px;
+left: 689px;
+top: 1343px;
+
+background: url(dhg.png);
+
+
+/* ethrt 1 */
+
+position: absolute;
+width: 244px;
+height: 244px;
+left: 992px;
+top: 1366px;
+
+background: url(ethrt.png);
+
+
+/* hig 1 */
+
+position: absolute;
+width: 275px;
+height: 275px;
+left: 1250px;
+top: 1343px;
+
+background: url(hig.png);
+
+
+/* sdgdf 1 */
+
+position: absolute;
+width: 247px;
+height: 247px;
+left: 270px;
+top: 1357px;
+
+background: url(sdgdf.png);
+
+
+/* 270541957_859590224712558_1004757424949365320_n 1 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 428px;
+height: 321px;
+left: 1407px;
+top: 828px;
+
+background: url(270541957_859590224712558_1004757424949365320_n.jpg);
+border: 4px solid #7A8BFF;
+border-radius: 48px;
+
+
+/* 270315560_859587288046185_6539926784924879051_n 1 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 428px;
+height: 321px;
+left: 746px;
+top: 828px;
+
+background: url(270315560_859587288046185_6539926784924879051_n.jpg);
+border: 4px solid #7A8BFF;
+border-radius: 47px;
+
+
+/* 270099864_859590454712535_8497638021389381441_n 1 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 428px;
+height: 320px;
+left: 85px;
+top: 829px;
+
+background: url(270099864_859590454712535_8497638021389381441_n.jpg);
+border: 4px solid #7889FF;
+border-radius: 50px;
+
+/* Slide 16:9 - 1 */
+
+position: relative;
+width: 1920px;
+height: 1080px;
+
+background: #201759;
+
+
+/* Group 2 */
+
+position: absolute;
+width: 413px;
+height: 317px;
+left: 660px;
+top: 438px;
+
+
+
+/* Email: */
+
+position: absolute;
+width: 89px;
+height: 39px;
+left: 716px;
+top: 504px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Full name: */
+
+position: absolute;
+width: 153px;
+height: 39px;
+left: 716px;
+top: 440px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Phone number: */
+
+position: absolute;
+width: 229px;
+height: 39px;
+left: 716px;
+top: 568px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 1 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 241px;
+height: 89px;
+left: 832px;
+top: 666px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+border-radius: 50px;
+
+
+/* SUBMIT */
+
+position: absolute;
+width: 123px;
+height: 39px;
+left: 891px;
+top: 691px;
+
+font-family: 'Average';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+
+color: #1866FF;
+
+
+
+/* user 1 */
+
+position: absolute;
+width: 41px;
+height: 41px;
+left: 660px;
+top: 438px;
+
+background: url(user.png);
+mix-blend-mode: soft-light;
+
+
+/* phone 1 */
+
+position: absolute;
+width: 42px;
+height: 41px;
+left: 660px;
+top: 568px;
+
+background: url(phone.png);
+
+
+/* mail 1 */
+
+position: absolute;
+width: 47px;
+height: 29px;
+left: 660px;
+top: 509px;
+
+background: url(mail.png);
+
+
+/* Group 1 */
+
+position: absolute;
+width: 1920px;
+height: 239px;
+left: -8px;
+top: -52px;
+
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 1920px;
+height: 239px;
+left: -8px;
+top: -52px;
+
+background: #E4E4E4;
+mix-blend-mode: normal;
+border-radius: 0px 0px 100px 100px;
+
+
+/* HOME */
+
+position: absolute;
+width: 200px;
+height: 78px;
+left: 1646px;
+top: 29px;
+
+font-family: 'Average';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 78px;
+/* identical to box height */
+
+color: #201759;
+
+
+
+/* JOIN US */
+
+position: absolute;
+width: 244px;
+height: 78px;
+left: 1339px;
+top: 29px;
+
+font-family: 'Average';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 78px;
+/* identical to box height */
+
+color: #201759;
+
+
+
+/* Rectangle 2 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 239px;
+height: 133px;
+left: 1626px;
+top: 0px;
+
+border: 3px solid #201759;
+border-radius: 0px 0px 50px 0px;
+
+
+/* Rectangle 3 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 273px;
+height: 133px;
+left: 1322px;
+top: 0px;
+
+border: 3px solid #201759;
+
+
+/* Logo 1 */
+
+position: absolute;
+width: 239px;
+height: 239px;
+left: -8px;
+top: -52px;
+
+background: url(Logo.png);
+
+
+/* Join Us ! */
+
+position: absolute;
+width: 243px;
+height: 70px;
+left: 839px;
+top: 303px;
+
+font-family: 'Average';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 78px;
+
+color: #FFFFFF;
+
+border: 2px solid #FFFFFF;
+
+
+/* Group 1 */
+
+position: absolute;
+width: 1925px;
+height: 82px;
+left: 0px;
+top: 1003px;
+
+
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 1920px;
+height: 77px;
+left: 0px;
+top: 1003px;
+
+background: #3D3D3D;
+
+
+/* Winter Camp MTC 2021®™ */
+
+position: absolute;
+width: 594px;
+height: 77px;
+left: 18px;
+top: 1008px;
+
+font-family: 'Average';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #FFFFFF;
+
+
+
+/* The Hunters Team */
+
+position: absolute;
+width: 410px;
+height: 46px;
+left: 1515px;
+top: 1010px;
+
+font-family: 'Average';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #FFFFFF;
+
